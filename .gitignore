@@ -1,0 +1,6 @@
+# Generated dataset output
+/data/
+*.csv
+*.parquet
+__pycache__/
+*.pyc
